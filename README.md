@@ -1,2 +1,2 @@
 ![imagenes](night-sky-9059825_1280.jpg)
-texto
+Esta es una imagen
